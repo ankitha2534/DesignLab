@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Project Path="Lab.Behavioral/Lab.Behavioral.csproj" />
+  <Project Path="Lab.Creational/Lab.Creational.csproj" />
+  <Project Path="Lab.Oop/Lab.Oop.csproj" />
+  <Project Path="Lab.Solid/Lab.Solid.csproj" />
+  <Project Path="Lab.Structural/Lab.Structural.csproj" />
+  <Project Path="Lab.Tests/Lab.Tests.csproj" />
+</Solution>
